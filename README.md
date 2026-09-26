@@ -1,4 +1,42 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Mohand 👋</h1>
+<h3 align="center">Computer Engineering Student @ American University of Sharjah | AWS Certified</h3>
+
+<p align="center">
+Building toward a career in <b>cloud security</b> and <b>cybersecurity</b> — one certification and project at a time.
+</p>
+
+---
+
+### 🔭 What I'm working on
+- 🎓 B.Sc. Computer Engineering, American University of Sharjah (2025 – 2028)
+- 🔐 Deepening my cloud security skills — IAM, CloudTrail, CloudWatch, VPC design
+- 📡 Studying for the **CCNA** to strengthen my networking foundation
+- 🤖 Exploring ML/AI tooling (PyTorch, TensorFlow, Scikit-learn) alongside security work
+- 💼 Actively looking for a **cybersecurity / cloud** internship — feel free to reach out!
+
+### 🛠️ Skills
+**Cloud & Security:** AWS (IAM, CloudTrail, CloudWatch, VPC), Linux System Administration, Risk Management
+**Languages:** Python, C++
+**ML/AI:** PyTorch, TensorFlow, Scikit-learn, NLP basics, Flask
+**Tools:** Git, GitHub
+
+### 📜 Certifications
+- AWS Certified Cloud Practitioner
+- AWS Cloud Quest: Generative AI Practitioner
+- Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate
+- IBM Cybersecurity Fundamentals with Capstone Project
+- CCNA — *in progress*
+
+### 📌 Featured Projects
+- 🔍 [**Cloud Security Monitoring System for AWS Secret Manager**](https://github.com/Mohxndaziz/Build-a-Cloud-Security-Monitoring-System-for-AWS-Secret-Manager) — Alerting for unauthorized secret access using AWS CloudTrail, CloudWatch, and SNS
+- 🏗️ [**VPC with Traffic Flow & Security on AWS**](https://github.com/Mohxndaziz/Build-Basic-VPC-with-Traffic-Flow-and-Security-on-AWS) — Segmented VPC design with security groups and NACLs
+- 📊 [**SMS Spam Classifier**](https://github.com/Mohxndaziz/SMS-spam-classifier) — NLP-based spam detection model in Python
+
+### 📫 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohand-sherif)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohandaziz2005@gmail.com)
+
+<p align="center"><i>Open to cybersecurity and cloud internship opportunities.</i></p>
 
 <!--
 **Mohxndaziz/Mohxndaziz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
