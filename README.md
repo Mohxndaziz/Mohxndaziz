@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Mohand 👋</h1>
-<h3 align="center">Computer Engineering Student @ American University of Sharjah | AWS Certified</h3>
+<h3 align="center">Computer Engineering Student @ AUS | AWS Certified Cloud Practitioner | Cloud  & Cybersecurity Enthusiast | Python, Linux, AWS</h3>
 
 <p align="center">
-Building toward a career in <b>cloud security</b> and <b>cybersecurity</b> — one certification and project at a time.
+Building toward a career in <b>cloud security</b> and <b>cybersecurity</b> .
 </p>
 
 ---
@@ -28,6 +28,7 @@ Building toward a career in <b>cloud security</b> and <b>cybersecurity</b> — o
 - CCNA — *in progress*
 
 ### 📌 Featured Projects
+- 🛡️ [**AWS GuardDuty Threat Detection Lab**](https://github.com/Mohxndaziz/AWS-GuardDuty-Threat-Detection-Lab) — Simulated SQL injection & command injection attacks on OWASP Juice Shop to exfiltrate IAM credentials via EC2 IMDSv2, then validated detection with GuardDuty (credential exfiltration + S3 malware protection findings)
 - 🔍 [**Cloud Security Monitoring System for AWS Secret Manager**](https://github.com/Mohxndaziz/Build-a-Cloud-Security-Monitoring-System-for-AWS-Secret-Manager) — Alerting for unauthorized secret access using AWS CloudTrail, CloudWatch, and SNS
 - 🏗️ [**VPC with Traffic Flow & Security on AWS**](https://github.com/Mohxndaziz/Build-Basic-VPC-with-Traffic-Flow-and-Security-on-AWS) — Segmented VPC design with security groups and NACLs
 - 🔌 [**Python TCP Port Scanner**](https://github.com/Mohxndaziz/TCP-Port-Scanner-using-python) — Multi-threaded scanner with banner grabbing, SSL/TLS fingerprinting, DNS resolution, and JSON reporting, built from scratch
